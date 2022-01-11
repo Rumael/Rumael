@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Rumael
+so far an IT Student at University.
+At the moment started a new job and don't want to miss this opportunity to also start together with github.
+
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Rumael/Rumael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
