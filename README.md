@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rumael
 so far an IT Student at University.
-At the moment started a new job and don't want to miss this opportunity to also start together with github.
+You probably won't see much here right now, since I use the git of the University, but I can't use that one forever.  
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
